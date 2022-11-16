@@ -1,6 +1,6 @@
-###**Description**
+## **Description**
 
-##QA Challenge
+## QA Challenge
  The goal of this challenge is to successfully execute all the testing steps on the given websites, starting from QA planning, all the way to reporting.
 Assignment
 
