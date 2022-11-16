@@ -20,14 +20,23 @@ Mandatory Features
 ● Deliver a good automation suite. Remember that it should be able to run on any computer. Your evaluator should not take hours guessing how to run it!
   
 _Exercise 1_
+
 The site ​http://zero.webappsecurity.com​ must meet the following requirements:
+
 ● Verify the main navigation is displayed in all the internal tabs of the site.
+
 ● Layout must adapt to mobile device screens.
+
 ● The Feedback contact form should validate inputs before sending a message.
+
 Perform the following testing tasks:
+
 ● Execute smoke test for the above requirements.
+
 ● Create high level test cases for the Feedback section and execute them.
+
 ● Create a board on ​http://trello.com​, create lists for steps on bug resolution, and report
+
 bugs.
 Deliverables:
 ● Share a Google spreadsheet including the following information:
@@ -38,11 +47,16 @@ Deliverables:
 ○ Bugs reported
 
 _Exercise 2:_
+
 The e-commerce site ​http://automationpractice.com​ is under development, and some of the features have to be tested. The website must meet the following requirements:
+
 ● The homepage should display the sections detailed on the design pdf file. It should display pixel-perfect on Chrome browser, viewport 1200px and above. The design file can be found here: https://drive.google.com/file/d/0B0aWI6NMr3VdWmo2Rm8tRGdjREU/view?usp=sharing
+
 ● Layout should be cross-browser compatible. Supported browsers are IE11, Chrome, Firefox and Safari on their latest versions (Pixel perfect applies only to Chrome.)
+
 ● For search, the user should be able to find all products containing the keyword in the
 product title. Products not containing the keyword should not display on results.
+
 ● On Contact form, all fields must be validated before sending a message.
       
  ● Add to cart flow should allow the user to:
